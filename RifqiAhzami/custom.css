@@ -1,0 +1,17 @@
+.home-button {
+    display: inline-block;
+    padding: 7px 20px;
+    font-size: 14px;
+    color: blue;
+    text-decoration: none;
+    background-color: #EDE9FE; /* Warna ungu muda */
+    border-radius: 20px; /* Membuat sudut membulat */
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Bayangan ringan */
+    transition: all 0.3s ease-in-out;
+}
+
+.home-button:hover {
+    background-color: #D8BFD8; /* Warna hover lebih gelap */
+}
