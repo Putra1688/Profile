@@ -10,6 +10,7 @@
     text-align: center;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Bayangan ringan */
     transition: all 0.3s ease-in-out;
+    margin-bottom: 20px;
 }
 
 .home-button:hover {
