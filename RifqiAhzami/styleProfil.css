@@ -1248,7 +1248,7 @@
      }
  
      nav.navbar {
-         position: relative !important;
+         /* position: sticky !important; */
          margin-bottom: 0rem;
          padding: 0.825rem 0.6rem;
      }
@@ -1411,6 +1411,7 @@
      .profile_picture_2 {
          justify-content: center;
          margin-left: 2rem;
+         margin-top: 5rem;
      }
  
      .intro {
